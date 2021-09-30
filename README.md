@@ -13,3 +13,7 @@
 ```
     python simple_portscanner.py -t localhost
 ```
+
+### Demostration
+
+![alt text](https://github.com/alysif/SimplePortScanner/blob/master/ScannLocalhost.png)
