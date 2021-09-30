@@ -16,4 +16,6 @@
 
 ### Demostration
 
-![alt text](https://github.com/alysif/SimplePortScanner/blob/master/ScannLocalhost.png)
+<p align="center">
+    <img src="https://github.com/alysif/SimplePortScanner/blob/master/ScannLocalhost.png">
+</p>
